@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SandwichReferralSystem", "SandwichReferralSystem\SandwichReferralSystem.csproj", "{9B7D714E-9004-42CA-89D3-2C00C5821009}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{0F7A3E1D-30F8-457E-B781-AA3FCE07CAE3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmailReferance", "EmailReferance\EmailReferance.csproj", "{A3C9D449-684C-402C-9256-F783586B1C98}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FindReminder", "FindReminder\FindReminder.csproj", "{E0997E99-2A43-4D4B-9AA8-3349DC7933B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogicLayer", "BusinessLogicLayer\BusinessLogicLayer.csproj", "{81F937DB-E1B1-4B64-94D8-2A28C6D82174}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B7D714E-9004-42CA-89D3-2C00C5821009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7D714E-9004-42CA-89D3-2C00C5821009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7D714E-9004-42CA-89D3-2C00C5821009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7D714E-9004-42CA-89D3-2C00C5821009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F7A3E1D-30F8-457E-B781-AA3FCE07CAE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F7A3E1D-30F8-457E-B781-AA3FCE07CAE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F7A3E1D-30F8-457E-B781-AA3FCE07CAE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F7A3E1D-30F8-457E-B781-AA3FCE07CAE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3C9D449-684C-402C-9256-F783586B1C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3C9D449-684C-402C-9256-F783586B1C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3C9D449-684C-402C-9256-F783586B1C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3C9D449-684C-402C-9256-F783586B1C98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0997E99-2A43-4D4B-9AA8-3349DC7933B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0997E99-2A43-4D4B-9AA8-3349DC7933B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0997E99-2A43-4D4B-9AA8-3349DC7933B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0997E99-2A43-4D4B-9AA8-3349DC7933B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81F937DB-E1B1-4B64-94D8-2A28C6D82174}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81F937DB-E1B1-4B64-94D8-2A28C6D82174}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81F937DB-E1B1-4B64-94D8-2A28C6D82174}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81F937DB-E1B1-4B64-94D8-2A28C6D82174}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
